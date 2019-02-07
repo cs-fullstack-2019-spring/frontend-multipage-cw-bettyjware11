@@ -1,11 +1,12 @@
 body {
     border: 1px solid black;
     margin: 20% 20%;
-
+    padding: 2px
 }
 
 h4 {
     text-align: center;
+    margin: auto;
 }
 
 button {
@@ -16,7 +17,7 @@ button {
 .container
 {
     display: grid;
-    /*background: red;*/
+
 }
 
 .container2 {
@@ -45,14 +46,11 @@ button {
     color: pink;
     font-size: 25px;
 
-
 }
-
-
-
 
 
 footer
 {
     font-size: 10px;
+
 }
